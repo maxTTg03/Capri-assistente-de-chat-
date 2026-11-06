@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=CAPRI
+Comment=Assistente local
+Exec=AppRun
+Icon=capri
+Categories=Utility;
+Terminal=false
